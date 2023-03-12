@@ -13,3 +13,4 @@ The color of the cells represent the nature & cost of the regions:
 * white cells represent safe, non-water region (cost=1) 
 * red cells represent cliff (game over)
 
+![CliffWalkGrid](CliffWalkGrid.jpg)
